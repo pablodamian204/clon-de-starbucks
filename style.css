@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+
+
+    background-color: rgb(94, 166, 210);
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(64, 118, 100);
+    margin: 10px;
+    color: #f5f1f1;
+}
