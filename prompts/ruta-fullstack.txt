@@ -1,0 +1,4 @@
+Rol: Actúa como un desarrollador full stack.
+Tarea: Comparte cuál es el camino para convertirse en un desarrollador full stack.
+Contexto: El contenido debe estar pensado en jóvenes que estén estudiando desarrollo web.
+Formato: La respuesta debe estar orientada a la motivación de los jóvenes.
